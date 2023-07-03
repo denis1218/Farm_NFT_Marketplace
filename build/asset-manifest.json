@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bdef2377.css",
+    "main.js": "/static/js/main.e7355e3f.js",
+    "static/js/942.cd3a4bc6.chunk.js": "/static/js/942.cd3a4bc6.chunk.js",
+    "static/js/883.f06312f2.chunk.js": "/static/js/883.f06312f2.chunk.js",
+    "static/js/787.2746eaee.chunk.js": "/static/js/787.2746eaee.chunk.js",
+    "static/js/774.d61b88ae.chunk.js": "/static/js/774.d61b88ae.chunk.js",
+    "static/js/782.7b6c2ac6.chunk.js": "/static/js/782.7b6c2ac6.chunk.js",
+    "static/js/908.861551bd.chunk.js": "/static/js/908.861551bd.chunk.js",
+    "static/js/419.6cada0cd.chunk.js": "/static/js/419.6cada0cd.chunk.js",
+    "static/js/585.bdc59b52.chunk.js": "/static/js/585.bdc59b52.chunk.js",
+    "static/media/landing.png": "/static/media/landing.a66412d65c844b9ec8b7.png",
+    "static/media/SILOS.png": "/static/media/SILOS.7e944bc17175f8d37534.png",
+    "static/media/SILOS 2.png": "/static/media/SILOS 2.4737529ccbcf5402de32.png",
+    "static/media/SILOS 1.png": "/static/media/SILOS 1.66b3ba304f3c399456f7.png",
+    "static/media/Rectangle 324.png": "/static/media/Rectangle 324.56f7ccfc7ce442cd0913.png",
+    "static/media/Rectangle 309.png": "/static/media/Rectangle 309.ba105982e85ca21d1175.png",
+    "static/media/Rectangle 320.png": "/static/media/Rectangle 320.ec1f414cddfe4816ff60.png",
+    "static/media/Vector 1.png": "/static/media/Vector 1.0981296b3db46a929a4c.png",
+    "static/media/Rectangle 310.png": "/static/media/Rectangle 310.01dd6dcf1e18abcd340a.png",
+    "static/media/Rectangle 321.png": "/static/media/Rectangle 321.f2a9218ead0dca84544b.png",
+    "static/media/Rectangle 307.png": "/static/media/Rectangle 307.3b6b3c9f2dba8000d852.png",
+    "static/media/Rectangle 311.png": "/static/media/Rectangle 311.2fe2ec4d7464b05f3067.png",
+    "static/media/Rectangle 285.png": "/static/media/Rectangle 285.41ccbcd2f38d699e9e76.png",
+    "static/media/Rectangle 306.png": "/static/media/Rectangle 306.109184cb03d51e70a532.png",
+    "static/media/Rectangle 308.png": "/static/media/Rectangle 308.62c2acf4e7cf88111dd4.png",
+    "static/media/Group 76.png": "/static/media/Group 76.a106eda9afa62d8c41c8.png",
+    "index.html": "/index.html",
+    "main.bdef2377.css.map": "/static/css/main.bdef2377.css.map",
+    "main.e7355e3f.js.map": "/static/js/main.e7355e3f.js.map",
+    "787.2746eaee.chunk.js.map": "/static/js/787.2746eaee.chunk.js.map",
+    "774.d61b88ae.chunk.js.map": "/static/js/774.d61b88ae.chunk.js.map",
+    "782.7b6c2ac6.chunk.js.map": "/static/js/782.7b6c2ac6.chunk.js.map",
+    "908.861551bd.chunk.js.map": "/static/js/908.861551bd.chunk.js.map",
+    "419.6cada0cd.chunk.js.map": "/static/js/419.6cada0cd.chunk.js.map",
+    "585.bdc59b52.chunk.js.map": "/static/js/585.bdc59b52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdef2377.css",
+    "static/js/main.e7355e3f.js"
+  ]
+}
